@@ -7,7 +7,7 @@
 YouTube is a leading video streaming platform in terms of popularity. This project aims to analyze, using Python packages like Pandas, Matplotlib, and Seaborn, a dataset of YouTube trending videos that was collected over 205 days to uncover patterns and insights into what makes a video trend. For each of those days, the dataset contains data about the trending videos of that day. It contains data about more than 37,000 trending videos. The analysis covers various aspects including the number of views, likes, comments, and the impact of video attributes like title length and publication time on a video's trending status. The insights from this analysis will be of immense value to those who want to increase the popularity of their videos on YouTube.
 
 
-Thanks to Kaggle.com for providing this dataset. It contains data about trending videos for many countries. Here we will analyze trending videos in India.
+Downoad the dataset [here](https://github.com/ashutoshkrris/YouTube-Trending-Videos-Analysis/blob/master/dataset/INvideos.csv). It contains data about trending videos for many countries. Here we will analyze trending videos in India.
 
 ## Goals of the Analysis
 
